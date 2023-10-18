@@ -45,3 +45,9 @@ Image augmentation in deep learning involves applying various transformations (e
 
 ## Results:
 ![result](https://github.com/Rajwaghela369/Brain-MRI/blob/284b754b9338ed2f46dfa5b40a0c0315d0f2240b/Results/result2.png)
+
+## Conclusion: 
+result underscores the effectiveness of the combined approach of image preprocessing and deep learning in improving the early diagnosis of brain tumors. While further research and validation are necessary to fully integrate these techniques into clinical practice, this project represents a significant step towards enhancing medical professionals' ability to detect brain tumors with precision and efficiency.
+
+### References:
+1. Vipin Y. Borole, Vipin Y. Borole, Dr. Seema S. Kawthekar - I JETTCS - Image Processing Techniques for Brain Tumor Detection: A Review, 2015 ([link](https://d1wqtxts1xzle7.cloudfront.net/40014067/IJETTCS-2015-10-01-7-libre.pdf?1447569226=&response-content-disposition=inline%3B+filename%3DImage_Processing_Techniques_for_Brain_Tu.pdf&Expires=1694783027&Signature=AJSZIggBcEaIh-06G5UtwdYRPTPek5phwL4UexlYCwwrmjfx2U2Eh2npRTfgsqI9syTnU9dQJzz1QDNQpYEUW06z8psYhKkiJjWm8dXITsLZfWbReRQJ4CH~0GyjEdnAxQjNb5q4QOJ0MfTgw7auhb4gY1eQKpdqbZhX6g7yPjbPFVfk~vlWYUWTZPjC2IB1lRUg6-WSd0ACGAMdxCgp8mk9hLuCieNOZafod1cq4v2f82aOu4Ko1SARn-t62iNr39UMgM7usdSBh1jaBdPm6m9p1A0~wup2PAL6wCSwpbfdxh7q3jf1BV~uhy4glQzzRRCIisAsWramAZ5do7MbLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))
