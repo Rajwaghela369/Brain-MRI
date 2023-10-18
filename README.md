@@ -29,6 +29,7 @@ It include application of few image processing methods which are used in tumor d
 
   Median filter is a non-linear filtering technique used for noise removal. ([Image Processing Techniques for Brain
   Tumor Detection: A Review, 2015](https://d1wqtxts1xzle7.cloudfront.net/40014067/IJETTCS-2015-10-01-7-libre.pdf?1447569226=&response-content-disposition=inline%3B+filename%3DImage_Processing_Techniques_for_Brain_Tu.pdf&Expires=1694783027&Signature=AJSZIggBcEaIh-06G5UtwdYRPTPek5phwL4UexlYCwwrmjfx2U2Eh2npRTfgsqI9syTnU9dQJzz1QDNQpYEUW06z8psYhKkiJjWm8dXITsLZfWbReRQJ4CH~0GyjEdnAxQjNb5q4QOJ0MfTgw7auhb4gY1eQKpdqbZhX6g7yPjbPFVfk~vlWYUWTZPjC2IB1lRUg6-WSd0ACGAMdxCgp8mk9hLuCieNOZafod1cq4v2f82aOu4Ko1SARn-t62iNr39UMgM7usdSBh1jaBdPm6m9p1A0~wup2PAL6wCSwpbfdxh7q3jf1BV~uhy4glQzzRRCIisAsWramAZ5do7MbLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))
+
 2. **Threshold:**
 
   Image threshold is a simple, effective, way to isolates objects ([Image Processing Techniques for Brain
