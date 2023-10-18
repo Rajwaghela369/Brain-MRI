@@ -1,2 +1,1 @@
-# Brain-MRI
-Author - Raj Waghela
+# Brain Tumor Detection
