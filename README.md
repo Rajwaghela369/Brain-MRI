@@ -13,15 +13,9 @@ The **[Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datase
 
 **1.Tumor MRI Images:**
 
-**2.Non-Tumor MRI Images:**
-
-The Sample Image are follows:
-
-With Tumor:
-
 ![tumor](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Sample%20Images/Y4.jpg)
 
-Without Tumor:
+**2.Non-Tumor MRI Images:**
 
 ![no tumor](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Sample%20Images/8%20no.jpg)
 
@@ -37,13 +31,11 @@ It include application of few image processing methods which are used in tumor d
   Image threshold is a simple, effective, way to isolates objects ([Image Processing Techniques for Brain
   Tumor Detection: A Review, 2015](https://d1wqtxts1xzle7.cloudfront.net/40014067/IJETTCS-2015-10-01-7-libre.pdf?1447569226=&response-content-disposition=inline%3B+filename%3DImage_Processing_Techniques_for_Brain_Tu.pdf&Expires=1694783027&Signature=AJSZIggBcEaIh-06G5UtwdYRPTPek5phwL4UexlYCwwrmjfx2U2Eh2npRTfgsqI9syTnU9dQJzz1QDNQpYEUW06z8psYhKkiJjWm8dXITsLZfWbReRQJ4CH~0GyjEdnAxQjNb5q4QOJ0MfTgw7auhb4gY1eQKpdqbZhX6g7yPjbPFVfk~vlWYUWTZPjC2IB1lRUg6-WSd0ACGAMdxCgp8mk9hLuCieNOZafod1cq4v2f82aOu4Ko1SARn-t62iNr39UMgM7usdSBh1jaBdPm6m9p1A0~wup2PAL6wCSwpbfdxh7q3jf1BV~uhy4glQzzRRCIisAsWramAZ5do7MbLg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA))
 
-Preprocessed sample image:
-
-With Tumor:
+**1. Preprocessed Tumor Images:**
 
 ![yes](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Preprocessed%20images/Y4.jpg.jpg)
 
-Without Tumor:
+**2.Preprocessed Non-Tumor MRI Images:**
 
 ![no](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Preprocessed%20images/8%20no.jpg.jpg)
 
