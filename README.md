@@ -27,9 +27,11 @@ This dataset It can be employed in the development of image classification algor
 
 The Sample Image are follows:
 With Tumor:
+
 ![tumor](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Sample%20Images/Y4.jpg)
 
 Without Tumor:
+
 ![no tumor](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Sample%20Images/8%20no.jpg)
 
 ## Image Preprocessing:
@@ -54,10 +56,13 @@ It include application of few image processing methods which are used in tumor d
 
 Preprocessed sample image:
 With Tumor:
+
 ![yes](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Preprocessed%20images/Y4.jpg.jpg)
 
 Without Tumor:
+
 ![no](https://github.com/Rajwaghela369/Brain-MRI/blob/adba717331396c5445731455c0e1842a87275470/Preprocessed%20images/8%20no.jpg.jpg)
+
 Apart from this there are various other techniques like edge detction, Image enhacement, etc. This methods are applied in various Image segmentation and object detection related tasks in Deep learning. It is crucial for enhancing data precision and overall model performance. However, the application of these methods should be judiciously chosen, as the effectiveness can vary depending on the nature of the data and the specific task. Striking the right balance is essential, as too many preprocessing steps may lead to overfitting or underfitting. Therefore, the selection of techniques is data-driven, with a focus on optimizing the preprocessing pipeline to achieve the best results for the given project.
 
 ## Image augmentation:
